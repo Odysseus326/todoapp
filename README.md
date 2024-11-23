@@ -7,4 +7,4 @@ A SIMPLE TODO LIST, FIND IT [HERE](https://odysseus326.github.io/todoapp/)!
 
 <p>This app features a system in which your list reorders and strikes through tasks when complete. You can also just outright delete the tasks.</p>
 
-<p>This application is build using React.js (JavaScript) and primarily serves as a portfolio piece.</p>
+<p>This application is built using React.js (JavaScript) and primarily serves as a portfolio piece.</p>
